@@ -6,5 +6,12 @@ public class demo {
         int[] nums2 = {1,1,2,3};//[1,3,3]
 
         Solution s = new Solution();
+        for(int i : s.decompressRLElist(nums1)){
+            System.out.print(i);
+        }
+        System.out.println();
+        for(int i : s.decompressRLElist(nums2)){
+            System.out.print(i);
+        }
     }
 }
