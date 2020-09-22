@@ -1,6 +1,4 @@
-package leetcode.RunningSum1480;
-
-import java.util.ArrayList;
+package leetcode.array.RunningSum1480;
 
 public class Solution {
     public int[] runningSum(int[] nums) {
