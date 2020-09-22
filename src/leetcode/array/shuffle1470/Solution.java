@@ -1,4 +1,4 @@
-package leetcode.shuffle1470;
+package leetcode.array.shuffle1470;
 //O(n)
 //新数组交叉放入值
 public class Solution {
