@@ -1,6 +1,6 @@
 package leetcode.array.findNumbers1295;
 
-public class Solution {
+class Solution {
     public int findNumbers(int[] nums) {
         int sum = 0;
         for(int i :nums) {

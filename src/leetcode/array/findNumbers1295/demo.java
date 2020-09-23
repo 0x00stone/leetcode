@@ -5,7 +5,7 @@ public class demo {
         int[] nums1 = {12,345,2,6,7896};//2
         int[] nums2 = {555,901,482,1771};//1
 
-        Solution s = new Solution();
+        Solution2 s = new Solution2();
         System.out.println(s.findNumbers(nums1));
         System.out.println(s.findNumbers(nums2));
     }
