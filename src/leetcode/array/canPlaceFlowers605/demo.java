@@ -8,7 +8,7 @@ public class demo {
         int[] flowerbed2 = {1,0,0,0,1};
         int n2 = 2;//False
 
-        Solution s = new Solution();
+        Solution2 s = new Solution2();
         System.out.println(s.canPlaceFlowers(flowerbed1,n1));
         System.out.println(s.canPlaceFlowers(flowerbed2,n2));
     }
